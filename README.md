@@ -14,8 +14,7 @@ The Project is divided in the following Sections:
 ### Installation: 
 Clone the GitHub repository and use Anaconda distribution of Python 3.6.7.
 
-    $ git clone https://github.com/Swatichanchal/Disaster-Response-Pipeline.git
-
+    $ git clone https://github.com/bhaveshjakhar/Disaster-response-pipeline-
 In addition This will require pip installation of the following:
 
     $ pip install SQLAlchemy
@@ -59,7 +58,7 @@ train_classifier.py : script write a machine learning pipeline that:
 
 run.py : Main file to run Flask app that classifies messages based on the model and shows data visualizations.
 
-- Link of my git hub repository : https://github.com/Swatichanchal/Disaster-Response-Pipeline.git
+- Link of my git hub repository : https://github.com/bhaveshjakhar/Disaster-response-pipeline-
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
@@ -82,9 +81,9 @@ run.py : Main file to run Flask app that classifies messages based on the model 
 
 ### Screenshots:
 
-![Screenshot 1](https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App.png)
+![Screenshot 1](https://github.com/bhaveshjakhar/Disaster-response-pipeline-/blob/master/Screenshots/Web_App1.png)
 
-![Screenshot 2](https://github.com/Swatichanchal/Disaster-Response-Pipeline/blob/master/Screenshots/Web_App1.png)
+![Screenshot 2](https://github.com/bhaveshjakhar/Disaster-response-pipeline-/blob/master/Screenshots/Web_App2.png)
 
 
 
